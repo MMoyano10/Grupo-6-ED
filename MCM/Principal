@@ -1,0 +1,18 @@
+#include <iostream>
+#include "MCM.h"
+
+int main(){
+	MCM mcm;
+	int a,b,c;
+	cin >> a;
+	cin >> b;
+	cin >> c;
+	long mcm = 0;
+	mcm = (a*b) / mcm.mcd(a,b);
+ 
+	long mcd3 = 0;
+	mcd3 = (mcm*c) / mcm.mcd(mcm,c);
+ 
+	cout << mcd3 << endl;
+	return 0;
+}
