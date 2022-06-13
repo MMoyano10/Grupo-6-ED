@@ -22,9 +22,9 @@ int gcd (int a, int b, int c)
 
 int main(int argc, char** argv) {
   int a, b, c;
-  cout<<"Enter the numbers :";
+  cout<<"Ingrese los numeros :";
   cin >> a >> b >> c;
-  cout << "GCD of " << a << ", " << b << " and " << c << " is " << gcd (a, b, c);
+  cout << "GCD DE" << a << ", " << b << " and " << c << " is " << gcd (a, b, c);
   
   return 0;
 }
