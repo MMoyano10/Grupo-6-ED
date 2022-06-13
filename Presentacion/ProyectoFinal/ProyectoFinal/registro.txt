@@ -1,0 +1,19 @@
+			--------------------------
+			|      REGISTROS         |
+			--------------------------
+
+		--------------------------------------------
+		NOMBRE DEL PROPIETARIO:   David Cantuna
+		NUMERO DE CEDULA:         1710091099
+		MARCA DEL AUTO:           Mercedes
+		NUMERO DE PLACA:          AAA-7894
+		FECHA DE INGRESO:         12/02/2002
+		--------------------------------------------
+
+		--------------------------------------------
+		NOMBRE DEL PROPIETARIO:   JOSE
+		NUMERO DE CEDULA:         1710091099
+		MARCA DEL AUTO:           SUSUKI
+		NUMERO DE PLACA:          AAA-7894
+		FECHA DE INGRESO:         12/12/2022
+		--------------------------------------------

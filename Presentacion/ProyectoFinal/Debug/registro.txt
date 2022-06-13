@@ -1,0 +1,19 @@
+			--------------------------
+			|      REGISTROS         |
+			--------------------------
+
+		--------------------------------------------
+		NOMBRE DEL PROPIETARIO:   David
+		NUMERO DE CEDULA:         1710091099
+		MARCA DEL AUTO:           Susuki
+		NUMERO DE PLACA:          AAA-1234
+		FECHA DE INGRESO:         12/2/2002
+		--------------------------------------------
+
+		--------------------------------------------
+		NOMBRE DEL PROPIETARIO:   FERNANDO
+		NUMERO DE CEDULA:         1753020393
+		MARCA DEL AUTO:           MERCEDES
+		NUMERO DE PLACA:          AAA-5678
+		FECHA DE INGRESO:         12/12/2002
+		--------------------------------------------
